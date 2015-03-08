@@ -1,0 +1,3 @@
+README
+
+Converts an mp3 file to a png file. Must create a folder called "data". Put the mp3 file in data. AudioConverter will convert the mp3 file in "data" to a png file. Read more at http://www.123dapp.com/123D_Design/audioJewelry/3359401. 
